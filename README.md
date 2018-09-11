@@ -21,4 +21,6 @@
 
 - https://ruslanspivak.com/lsbasi-part1/
 
-## how to build a webserver
+## How to Write a (Lisp) Interpreter (in Python)
+
+http://norvig.com/lispy.html
