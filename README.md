@@ -24,3 +24,7 @@
 ## How to Write a (Lisp) Interpreter (in Python)
 
 http://norvig.com/lispy.html
+
+## How to make an os
+
+https://github.com/cfenollosa/os-tutorial
